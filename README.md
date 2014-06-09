@@ -1,4 +1,4 @@
-thesis
+Thesis
 ======
 Data and source-code of software for thesis: 
 
