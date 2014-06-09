@@ -2,7 +2,7 @@ Visual scene analysis based on the kurtosis of responses of independent componen
 ======
 
 by
-Andre Cavalcante,
+André Cavalcante,
 Ohnishi Laboratory,
 Graduate School of Information Science,
 Nagoya University,
