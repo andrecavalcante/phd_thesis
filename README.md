@@ -1,4 +1,4 @@
-Visual scene analysis based on the kurtosis of response of independent component filters
+Visual scene analysis based on the kurtosis of responses of independent component filters
 ======
 
 by
