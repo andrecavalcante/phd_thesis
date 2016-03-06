@@ -8,6 +8,8 @@ Graduate School of Information Science,
 Nagoya University,
 Japan.
 
+PDF: http://ir.nul.nagoya-u.ac.jp/jspui/bitstream/2237/21837/1/主論文.pdf
+
 
 Abstract 
 ======
